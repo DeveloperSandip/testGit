@@ -2,7 +2,7 @@ var msg: string = "Hello Sandip";
 console.log(msg);
 class Starting {
   start(): void {
-    console.log("Its your first TS function");
+    console.log("new code");
   }
 }
 var myStart = new Starting();
